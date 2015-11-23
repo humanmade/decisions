@@ -1,0 +1,2 @@
+# decisions
+Simplify your WordPress
